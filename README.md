@@ -245,23 +245,6 @@ skillupplus2030/
 
 ---
 
-## 📸 Sugestão de Prints para o PDF da GS
-
-Algumas telas que valem muito a pena tirar print:
-
-* Home SkillUpPlus 2030 (menu principal).
-* Login & Perfil Local, com dados preenchidos.
-* Trilhas de Upskilling, mostrando trilhas cadastradas.
-* Painel de Progresso, com barra de progresso e indicadores.
-* Conectividade & IoT com alguns dispositivos Online/Offline.
-* Central de Navegação:
-
-  * Drawer aberto (menu lateral).
-  * Tabs embaixo (Início / Trilhas / Progresso).
-  * Navegação Lista → Detalhe na aba Trilhas.
-
----
-
 ## 📚 Conexão com o Tema “Futuro do Trabalho”
 
 O app se conecta ao tema proposto pela GS da seguinte forma:
